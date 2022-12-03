@@ -49,3 +49,20 @@ C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.
 C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\refint\BookShop.Core.dll
 C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.pdb
 C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\ref\BookShop.Core.dll
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Core.deps.json
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Core.dll
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\ref\BookShop.Core.dll
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Core.pdb
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.dll
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.dll
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\git project\Shop\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.AssemblyReference.cache
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfoInputs.cache
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfo.cs
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CoreCompileInputs.cache
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CopyComplete
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.dll
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\ref\BookShop.Core.dll
+D:\git project\Shop\BookShop.Core\obj\Debug\net6.0\BookShop.Core.pdb

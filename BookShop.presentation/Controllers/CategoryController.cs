@@ -12,7 +12,6 @@ namespace BookShop.presentation.Controllers
         public CategoryController(IRepository<Category> repository, ApplicationDbContext context)
         {
             _repository = repository;
-            _repository = repository;
             _context = context;
         }
         public IActionResult Index()

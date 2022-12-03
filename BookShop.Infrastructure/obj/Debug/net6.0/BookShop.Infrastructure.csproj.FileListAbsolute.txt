@@ -49,3 +49,20 @@ C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Infrastructure\obj\D
 C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.pdb
 C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.genruntimeconfig.cache
 C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Infrastructure\obj\Debug\net6.0\ref\BookShop.Infrastructure.dll
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\BookShop.Infrastructure.deps.json
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\BookShop.Infrastructure.runtimeconfig.json
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\BookShop.Infrastructure.dll
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\ref\BookShop.Infrastructure.dll
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\BookShop.Domain.dll
+D:\git project\Shop\BookShop.Infrastructure\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.csproj.AssemblyReference.cache
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.AssemblyInfoInputs.cache
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.AssemblyInfo.cs
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.csproj.CopyComplete
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.dll
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\ref\BookShop.Infrastructure.dll
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\git project\Shop\BookShop.Infrastructure\obj\Debug\net6.0\BookShop.Infrastructure.genruntimeconfig.cache
