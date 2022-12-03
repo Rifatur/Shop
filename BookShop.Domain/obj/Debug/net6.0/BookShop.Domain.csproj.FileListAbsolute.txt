@@ -1,0 +1,36 @@
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.deps.json
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.csproj.AssemblyReference.cache
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.AssemblyInfoInputs.cache
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.AssemblyInfo.cs
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.csproj.CoreCompileInputs.cache
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\refint\BookShop.Domain.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\ref\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.deps.json
+D:\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\ref\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.csproj.AssemblyReference.cache
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.AssemblyInfoInputs.cache
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.AssemblyInfo.cs
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.csproj.CoreCompileInputs.cache
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\ref\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.deps.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\bin\Debug\net6.0\BookShop.Domain.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.csproj.AssemblyReference.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.AssemblyInfoInputs.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.AssemblyInfo.cs
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\refint\BookShop.Domain.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\BookShop.Domain.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Domain\obj\Debug\net6.0\ref\BookShop.Domain.dll

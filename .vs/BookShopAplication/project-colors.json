@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f77f23d6-6c62-457b-a869-5c2faa05cd9b": {
+      "ProjectGuid": "f77f23d6-6c62-457b-a869-5c2faa05cd9b",
+      "DisplayName": "BookShop.Infrastructure",
+      "ColorIndex": 0
+    },
+    "9d848fa2-da72-4194-81d3-c98a3f562810": {
+      "ProjectGuid": "9d848fa2-da72-4194-81d3-c98a3f562810",
+      "DisplayName": "BookShop.Domain",
+      "ColorIndex": 1
+    },
+    "9adc524b-7ea8-4358-8bd5-f98a5cb9e835": {
+      "ProjectGuid": "9adc524b-7ea8-4358-8bd5-f98a5cb9e835",
+      "DisplayName": "BookShop.Core",
+      "ColorIndex": 2
+    },
+    "469eb174-3c32-4a85-b4b3-1de9ac0c1014": {
+      "ProjectGuid": "469eb174-3c32-4a85-b4b3-1de9ac0c1014",
+      "DisplayName": "BookShop.presentation",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,401 @@
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\appsettings.Development.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\appsettings.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.staticwebassets.runtime.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.exe
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.deps.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.runtimeconfig.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.AssemblyReference.cache
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.AssemblyInfoInputs.cache
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.AssemblyInfo.cs
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.CoreCompileInputs.cache
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.RazorAssemblyInfo.cache
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.RazorAssemblyInfo.cs
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\staticwebassets.build.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\staticwebassets.development.json
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\bundle\BookShop.presentation.styles.css
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.presentation.bundle.scp.css
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\refint\BookShop.presentation.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.genruntimeconfig.cache
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\ref\BookShop.presentation.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Domain.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Infrastructure.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.CopyComplete
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Humanizer.dll
+D:\Original ASP APP\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\appsettings.Development.json
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\appsettings.json
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.staticwebassets.runtime.json
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.exe
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.deps.json
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.runtimeconfig.json
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ref\BookShop.presentation.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.pdb
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Humanizer.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Infrastructure.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.AssemblyReference.cache
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.AssemblyInfoInputs.cache
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.AssemblyInfo.cs
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.CoreCompileInputs.cache
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.RazorAssemblyInfo.cache
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.RazorAssemblyInfo.cs
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\staticwebassets.build.json
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\staticwebassets.development.json
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\bundle\BookShop.presentation.styles.css
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.presentation.bundle.scp.css
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.CopyComplete
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.dll
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\ref\BookShop.presentation.dll
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.pdb
+D:\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.genruntimeconfig.cache
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Core.dll
+D:\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Core.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\appsettings.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.staticwebassets.runtime.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.exe
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.deps.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.runtimeconfig.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.presentation.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Core.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Domain.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Infrastructure.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Core.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\BookShop.Domain.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.AssemblyReference.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.AssemblyInfoInputs.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.AssemblyInfo.cs
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.CoreCompileInputs.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.RazorAssemblyInfo.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.RazorAssemblyInfo.cs
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\bundle\BookShop.presentation.styles.css
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.presentation.bundle.scp.css
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.csproj.CopyComplete
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\refint\BookShop.presentation.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.genruntimeconfig.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\obj\Debug\net6.0\ref\BookShop.presentation.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\MessagePack.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.presentation\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

@@ -1,0 +1,51 @@
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.AssemblyReference.cache
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfoInputs.cache
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfo.cs
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CoreCompileInputs.cache
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.deps.json
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CopyComplete
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\refint\BookShop.Core.dll
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.pdb
+D:\Original ASP APP\BookShopAplication\BookShop.Core\obj\Debug\net6.0\ref\BookShop.Core.dll
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.deps.json
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.dll
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\ref\BookShop.Core.dll
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.pdb
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.dll
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.dll
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.pdb
+D:\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.AssemblyReference.cache
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfoInputs.cache
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfo.cs
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CoreCompileInputs.cache
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CopyComplete
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.dll
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\ref\BookShop.Core.dll
+D:\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.deps.json
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Core.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Domain.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\bin\Debug\net6.0\BookShop.Infrastructure.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.AssemblyReference.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfoInputs.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.AssemblyInfo.cs
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.csproj.CopyComplete
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\refint\BookShop.Core.dll
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\BookShop.Core.pdb
+C:\Users\rifat\OneDrive\Desktop\BookShopAplication\BookShop.Core\obj\Debug\net6.0\ref\BookShop.Core.dll
