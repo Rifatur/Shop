@@ -55,33 +55,43 @@
                                     <input type="text" class="form-control" name="ISBN" id="ISBN" required>
                                 </div> 
 
-                                <div class="mb-3">
-                                    <select class="form-select" aria-label="Select Category" name="CategoryId">
-                                      <option selected>Open this select menu</option>
+                                  <div class="row">
+                                    <div class="form-group col-md-6">
+                                      <label for="inputZip">Author</label>
+                                      <input type="text" class="form-control" id="inputZip" name="Author">
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                      <label for="inputState">Category</label>
+                                      <select id="inputState" class="form-control">
+                                        <option selected>Choose...</option>
                                         @foreach (var item in Model)
                                         {
                                         <option value="@item.Id">@item.Name</option>
                                         }
-                                    
-
-                                    </select>
-                                </div>
-                                  <div class="form-row">
-                                    <div class="form-group col-md-6">
-                                      <label for="inputCity">City</label>
-                                      <input type="text" class="form-control" id="inputCity">
-                                    </div>
-                                    <div class="form-group col-md-4">
-                                      <label for="inputState">State</label>
-                                      <select id="inputState" class="form-control">
-                                        <option selected>Choose...</option>
-                                        <option>...</option>
                                       </select>
                                     </div>
-                                    <div class="form-group col-md-2">
-                                      <label for="inputZip">Zip</label>
-                                      <input type="text" class="form-control" id="inputZip">
-                                    </div>
+
+                                  </div>
+                                  <div class="row mt-2">
+                                        <div class="form-group col-md-3">
+                                          <label for="ISBN">Last Price</label>
+                                          <input type="text" class="form-control" id="ISBN" name="LastPrice">
+                                        </div>
+
+                                        <div class="form-group col-md-3">
+                                          <label for="ISBN"> Price</label>
+                                          <input type="text" class="form-control" id="ISBN" name="price">
+                                        </div> 
+                                    
+                                        <div class="form-group col-md-3">
+                                          <label for="ISBN"> Price - 50</label>
+                                          <input type="text" class="form-control" id="ISBN" name="price50">
+                                        </div>
+
+                                        <div class="form-group col-md-3">
+                                          <label for="ISBN"> Price - 100 </label>
+                                          <input type="text" class="form-control" id="ISBN" name="price100">
+                                        </div>
                                   </div>
 
                             </div>

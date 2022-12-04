@@ -9560,19 +9560,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rifat\\.nuget\\packages\\": {}
+    "C:\\Users\\Dulon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.presentation\\BookShop.presentation.csproj",
+      "projectUniqueName": "D:\\git project\\Shop\\BookShop.presentation\\BookShop.presentation.csproj",
       "projectName": "BookShop.presentation",
-      "projectPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.presentation\\BookShop.presentation.csproj",
-      "packagesPath": "C:\\Users\\rifat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.presentation\\obj\\",
+      "projectPath": "D:\\git project\\Shop\\BookShop.presentation\\BookShop.presentation.csproj",
+      "packagesPath": "C:\\Users\\Dulon\\.nuget\\packages\\",
+      "outputPath": "D:\\git project\\Shop\\BookShop.presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rifat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dulon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9586,11 +9586,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.Core\\BookShop.Core.csproj": {
-              "projectPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.Core\\BookShop.Core.csproj"
+            "D:\\git project\\Shop\\BookShop.Core\\BookShop.Core.csproj": {
+              "projectPath": "D:\\git project\\Shop\\BookShop.Core\\BookShop.Core.csproj"
             },
-            "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\BookShopAplication\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj"
+            "D:\\git project\\Shop\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj": {
+              "projectPath": "D:\\git project\\Shop\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj"
             }
           }
         }
@@ -9646,7 +9646,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
