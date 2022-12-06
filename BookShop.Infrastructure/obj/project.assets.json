@@ -1881,19 +1881,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dulon\\.nuget\\packages\\": {}
+    "C:\\Users\\rifat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git project\\Shop\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\rifat\\OneDrive\\Desktop\\Personal Project\\Shop\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj",
       "projectName": "BookShop.Infrastructure",
-      "projectPath": "D:\\git project\\Shop\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Dulon\\.nuget\\packages\\",
-      "outputPath": "D:\\git project\\Shop\\BookShop.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\Personal Project\\Shop\\BookShop.Infrastructure\\BookShop.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\rifat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\Personal Project\\Shop\\BookShop.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dulon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rifat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1907,8 +1907,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\git project\\Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
-              "projectPath": "D:\\git project\\Shop\\BookShop.Domain\\BookShop.Domain.csproj"
+            "C:\\Users\\rifat\\OneDrive\\Desktop\\Personal Project\\Shop\\BookShop.Domain\\BookShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\rifat\\OneDrive\\Desktop\\Personal Project\\Shop\\BookShop.Domain\\BookShop.Domain.csproj"
             }
           }
         }
@@ -1953,7 +1953,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -34,7 +34,12 @@
                                                  <img src="/@item.ImageUrl" class="rounded-circle"height="40" width="40" asp-append-version="true" />                            
                                                
                                                </td>
-                                           <td></td>
+                                           <td>
+                                                
+                                                <a class="btn btn-outline-dark " data-bs-toggle="modal" data-bs-target="#Editmodal_@item.Id"><i class="fa fa-pen ms-2"></i></a>
+                                                <a asp-controller="Book" asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-primary m-1"><i class="fa fa-eye"></i> </a>
+                                                 <a asp-action="Delete" asp-route-id="@item.Id"  class="btn btn-danger m-1"><i class="fa fa-trash"></i> </a> 
+                                           </td>
                                        </tr>
                                    }
                                 </tbody>

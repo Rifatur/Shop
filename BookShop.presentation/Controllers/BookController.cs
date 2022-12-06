@@ -3,6 +3,7 @@ using BookShop.Domain.Entities;
 using BookShop.Domain.Repository;
 using BookShop.presentation.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookShop.presentation.Controllers
 {
@@ -35,8 +36,6 @@ namespace BookShop.presentation.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateBook(ProductViewModel model)
         {
-
-
             if (model.CoverPhoto != null)
             {
                 string folder = "Image/cover/";
@@ -62,8 +61,80 @@ namespace BookShop.presentation.Controllers
             };
             await _repository.AddAsync(CreateBook);
             return RedirectToAction("Index");
+        }
+
+        public async Task<IActionResult> Delete(Guid? Id)
+        {
+            var imageModel = await _context.Products.FindAsync(Id);
+            string folder = "Image/cover/";
+            //delete image from wwwroot/image
+            if (imageModel.ImageUrl != null)
+            {
+                var imagePath = Path.Combine(_webHostEnvironment.WebRootPath, "Image/cover/", imageModel.ImageUrl);
+                if (System.IO.File.Exists(imagePath))
+                    System.IO.File.Delete(imagePath);
+                //Delete that Product
+                _context.Products.Remove(imageModel);
+                //Commit the transaction
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            //Delete that Product
+            _context.Products.Remove(imageModel);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
 
 
         }
+
+        //Product Details Get By Id = 1 
+        [HttpGet]
+        public async Task<IActionResult> Details(Guid Id)
+        {
+            Product product = new Product();
+            var result = await _context.Products.FirstOrDefaultAsync(u => u.Id == Id);
+            if (result! == null)
+            {
+                product.Title = result.Title;
+            }
+            return View(result);
+        }
+        //Update
+        public IActionResult Update(Guid? Id)
+        {
+            //Find the product for specific post id
+            var productIsExit = _context.Products.FirstOrDefault(u => u.Id == Id);
+
+            return View();
+        }
+
+        public IActionResult Update(ProductViewModel book)
+        {
+            bool IsBookExist = false;
+            Product findbook = _context.Products.Find(book.Id);
+            if (findbook != null)
+            {
+                IsBookExist = true;
+            }
+            findbook.Title = book.Title;
+            findbook.Description = book.Description;
+            findbook.ISBN = book.ISBN;
+            findbook.Author = book.Author;
+
+            if (ModelState.IsValid)
+            {
+                if (IsBookExist)
+                {
+                    _context.Update(findbook);
+                    _context.SaveChanges();
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            return View(book);
+        }
+
+
+
     }
 }
