@@ -1,29 +1,42 @@
-﻿@model IEnumerable<BookShop.Domain.Category>
+﻿@model IEnumerable<BookShop.Domain.Entities.Product>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
 <div class="container-fluid pt-4 px-4" >
                     <div class="col-sm-12 col-xl-12">
                         <div class="bg-light rounded h-100 p-4">
                             <div class="d-flex justify-content-between">
                                <h6 class="mb-4">Book List</h6>
                                <div class="btnmargin-h2">
-                                   <a  class="btn btn-primary m-2"data-bs-toggle="modal" href="#exampleModalToggle" role="button">New<i class="fa fa-plus ms-2"></i></a>
+                                   <a  class="btn btn-primary m-2"href="/Book/CreateBook" role="button">New<i class="fa fa-plus ms-2"></i></a>
                                </div>
                             </div>
 
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
-                                        <th scope="col">#</th>
-                                        <th scope="col"> Name</th>
+                                        <th scope="col">Title</th>
                                         <th scope="col">Description</th>
+                                        <th scope="col">Price</th>
+                                        <th scope="col">Image</th>
+                                        <th scope="col">Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                   
+                                   @foreach (var item in Model)
+                                   {
+                                       <tr>
+                                           <td>@item.Title</td>
+                                           <td>@item.Description</td>
+                                           <td>@item.Price</td>
+                                           <td>
+                                                 <img src="/@item.ImageUrl" class="rounded-circle"height="40" width="40" asp-append-version="true" />                            
+                                               
+                                               </td>
+                                           <td></td>
+                                       </tr>
+                                   }
                                 </tbody>
                             </table>
                         </div>
@@ -31,77 +44,4 @@
 </div>
 
 
-<div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
-  <div class="modal-dialog modal-lg modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalToggleLabel">Book Create Form</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-     <form asp-action="" enctype="multipart/form-data">
-          <div class="modal-body">
-                        <div class="col-sm-12 col-xl-12">
-                            <div class="bg-light rounded h-100 p-4">
-                                <div class="mb-3">
-                                    <label for="Title" class="form-label">Title </label>
-                                    <input type="text" class="form-control" name="Title" id="NaTitleme" required>
-                                </div>
-                                <div class="mb-3">
-                                    <label for="Description" class="form-label">Describtion</label>
-                                    <input type="text" class="form-control" name="Description" id="Description" required>
-                                </div>
-                                <div class="mb-3">
-                                    <label for="ISBN" class="form-label">ISBN</label>
-                                    <input type="text" class="form-control" name="ISBN" id="ISBN" required>
-                                </div> 
 
-                                  <div class="row">
-                                    <div class="form-group col-md-6">
-                                      <label for="inputZip">Author</label>
-                                      <input type="text" class="form-control" id="inputZip" name="Author">
-                                    </div>
-                                    <div class="form-group col-md-6">
-                                      <label for="inputState">Category</label>
-                                      <select id="inputState" class="form-control">
-                                        <option selected>Choose...</option>
-                                        @foreach (var item in Model)
-                                        {
-                                        <option value="@item.Id">@item.Name</option>
-                                        }
-                                      </select>
-                                    </div>
-
-                                  </div>
-                                  <div class="row mt-2">
-                                        <div class="form-group col-md-3">
-                                          <label for="ISBN">Last Price</label>
-                                          <input type="text" class="form-control" id="ISBN" name="LastPrice">
-                                        </div>
-
-                                        <div class="form-group col-md-3">
-                                          <label for="ISBN"> Price</label>
-                                          <input type="text" class="form-control" id="ISBN" name="price">
-                                        </div> 
-                                    
-                                        <div class="form-group col-md-3">
-                                          <label for="ISBN"> Price - 50</label>
-                                          <input type="text" class="form-control" id="ISBN" name="price50">
-                                        </div>
-
-                                        <div class="form-group col-md-3">
-                                          <label for="ISBN"> Price - 100 </label>
-                                          <input type="text" class="form-control" id="ISBN" name="price100">
-                                        </div>
-                                  </div>
-
-                            </div>
-                        </div>
-          </div>
-          <div class="modal-footer">
-              <button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">Cancel</button>
-              <input type="submit" value=" Upload " class="btn btn-primary"/>
-          </div>
-      </form>     
-    </div>
-  </div>
-</div>

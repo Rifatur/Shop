@@ -668,3 +668,8 @@ D:\git project\Shop\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation
 D:\git project\Shop\BookShop.presentation\obj\Debug\net6.0\ref\BookShop.presentation.dll
 D:\git project\Shop\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.pdb
 D:\git project\Shop\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.genruntimeconfig.cache
+D:\git project\Shop\BookShop.presentation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\git project\Shop\BookShop.presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git project\Shop\BookShop.presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git project\Shop\BookShop.presentation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git project\Shop\BookShop.presentation\obj\Debug\net6.0\BookShop.presentation.MvcApplicationPartsAssemblyInfo.cs

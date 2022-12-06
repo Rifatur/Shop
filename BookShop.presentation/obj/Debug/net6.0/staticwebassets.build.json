@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yCDxlAmegaOlYrRrgheYiU7MLJXxDgE9h/1AV+2jhCE=",
+  "Hash": "XeJByE5VhcHT1g2joc/yu1rXMWIf1fBly333Hg0ooY8=",
   "Source": "BookShop.presentation",
   "BasePath": "_content/BookShop.presentation",
   "Mode": "Default",
@@ -2242,6 +2242,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\git project\\Shop\\BookShop.presentation\\wwwroot\\Image\\cover\\ae66918f-8cb1-4566-b66c-f9f4c92a98ef_Daraz-Product.jpg",
+      "SourceId": "BookShop.presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\git project\\Shop\\BookShop.presentation\\wwwroot\\",
+      "BasePath": "_content/BookShop.presentation",
+      "RelativePath": "Image/cover/ae66918f-8cb1-4566-b66c-f9f4c92a98ef_Daraz-Product.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\cover\\ae66918f-8cb1-4566-b66c-f9f4c92a98ef_Daraz-Product.jpg"
     },
     {
       "Identity": "D:\\git project\\Shop\\BookShop.presentation\\wwwroot\\js\\site.js",
